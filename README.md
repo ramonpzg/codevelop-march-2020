@@ -13,4 +13,5 @@ In this session, we will cover topics ranging from how to get started in data an
 7. Next steps
 
 
-https://mybinder.org/v2/gh/ramonprz01/codevelop-march-2020/master?filepath=learn_python.ipynb
+
+[![notebook](https://mybinder.org/v2/gh/ramonprz01/codevelop-march-2020/master?filepath=learn_python.ipynb)
